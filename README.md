@@ -66,8 +66,7 @@ Send the token as: `Authorization: Bearer <token>`
 3. **Frontend:** deploy `frontend/` on [Vercel](https://vercel.com) or Netlify. Add env var `VITE_API_URL=https://<your-backend>.onrender.com/api`.
 
 ## Live Demo
-- Frontend: _add your link here_
-- API: _add your link here_
-
+- Frontend: https://taskflow-app-red-ten.vercel.app/
+- API: https://taskflow-api-three-delta.vercel.app
 ## Author
-_Your name_ – _your GitHub link_
+https://github.com/basantakram405-design
